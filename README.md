@@ -18,7 +18,3 @@ A new Flutter project.
 
 <img width="300" alt="quiz" src="https://user-images.githubusercontent.com/43652071/117149304-bd90fd80-add4-11eb-961f-ca60e9e4a241.png">
 
-![Simulator Screen Shot - iPhone 12 Pro - 2021-05-05 at 19 09 49]
-(![Uploading Simulator Screen Shot - iPhone 12 Pro - 2021-05-05 at 19.10.20.png…!
-[Simulator Screen Shot - iPhone 12 Pro - 2021-05-05 at 19 10 18]()
-
